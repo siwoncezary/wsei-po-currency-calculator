@@ -31,6 +31,9 @@
           <ComboBoxItem
               Content="Tabela C"/>
       </ComboBox>
+      <ComboBox
+          Name="SourceCurrency"
+          ></ComboBox>
       <Label
       >Lista kursów</Label>
       <ListView
